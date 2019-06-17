@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My CookBook</string>
+    <string name="log_in">LOG IN</string>
+    <string name="not_now">NOT NOW</string>
+    <string name="my_cook_book">My Cook Book</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_new">CREATE NEW</string>
+    <string name="my_recipes">MY RECIPES</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="background_image">Background image</string>
+    <string name="no_account_register_here">No account? Register here :)</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="welcome">Welcome!</string>
+</resources>
